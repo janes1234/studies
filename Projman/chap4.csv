@@ -1,0 +1,38 @@
+Specify Team Tasks,Defining exactly what the project team must do and create to produce the final product.
+Create Project Master Plan,Developing a detailed document that explains how the project will be executed to meet all requirements.
+Direct Team Operation,Using the project plan to organize and guide the team's daily work toward meeting targets.
+Understand User Needs,Learning exactly what the customer wants the final product to do to solve their problem.
+Create Technical Specifications,Translating user needs into detailed technical instructions that tell builders what the product must be and do.
+Transfer Requirements,Providing the detailed technical specifications to the project team so they know what to produce.
+Organize Project Team,Setting up the team structure and holding a kickoff meeting to start the project.
+Project Kickoff Meeting,The first formal meeting where the manager explains goals and builds team commitment.
+Clarify User Requirements,Working closely with the customer to turn vague ideas into a clear and detailed list of needs.
+Review Plan with Customer,Meeting with the client to get their official approval on the requirements and the project plan.
+User Requirements (Needs),The high-level "whats" that the customer wants the project to provide.
+Functional Requirements,Specific technical requirements that describe the functions the system must perform.
+Performance Requirements,The specific levels or measurable targets the system must reach to be successful.
+Anticipate User Needs,Recognizing that customers are often unclear about what they need and helping them define it.
+Ample User Input,Making system definition a team effort by involving users and stakeholders in the planning.
+Refine Requirements,Using an iterative process to update details as the project plan expands and changes.
+Detailed Specifications,Technical instructions written by experts to guide the actual design and build work.
+Formal Sign-off,Getting both the user and the project staff to officially agree to and sign the requirements.
+Visualize Needs,Using pictures and models to help define requirements so they aren't misinterpreted.
+Traceability & Change Control,Keeping track of how changes to one requirement affect others to ensure goals are still met.
+Priority Levels and Margins,Assigning importance to requirements and defining how much they are allowed to vary.
+Scope Statement / SOW,A document that defines the boundaries of the project and exactly what work is included.
+Work Breakdown Structure (WBS),Breaking down the total project work into smaller, manageable tasks or packages.
+Responsibility Assignment,Identifying which team members are responsible for completing specific tasks.
+Schedule & Milestones,A timeline showing when specific tasks will happen and when key goals must be reached.
+Budget & Risk Plan,The financial plan for the project combined with a plan for handling potential problems.
+Communication Plan,A guide that describes who needs what information and how meetings will be handled.
+Sequential Phases,A "Waterfall" approach where each stage of the project must be finished before the next begins.
+Best for Simple Projects,An approach used when requirements are very clear from the start and unlikely to change.
+Iterative Execution,An approach where the project is developed in small cycles or increments rather than all at once.
+Incremental Deliveries,Breaking the end product into pieces so the customer gets working parts of the system early.
+Best for Complex Projects,Using agile or iterative steps when the final product is hard to visualize or conceptualize.
+Rolling Wave Model,Starting with a rough plan and adding more detail as the project moves forward and unknowns decrease.
+Customer Experimentation,Allowing the user to test early versions (prototypes) to help finalize the requirements.
+Authorize Project & Manager,A document issued by senior management to officially start a project and give the manager power.
+Define Objectives & Scope,Setting the high-level goals and limits for the project within the charter.
+Outline Risks & Constraints,Identifying potential threats and the rules or limits the project must follow.
+Stakeholder Overview,Identifying the people who have a stake in the project and what their needs are.

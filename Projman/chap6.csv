@@ -1,0 +1,42 @@
+What is desired end result?,Define the project objectives, scope, and system requirements .
+How will result be achieved?,Define the work activities, tasks, or jobs to be done to achieve the objectives .
+Who will do it?,Specify the project organization including individuals, departments, and contractors .
+When and in what order?,Create a schedule showing the timing of work activities, deadlines, and milestone dates .
+How much (Budget/Resources)?,Create a budget and resource plan to fund and support the project .
+How well (Tracking/Control)?,Specify a method for tracking and controlling the project to ensure it conforms to the plan .
+Scope Statement and SOW,Describes the breadth of the project, including areas covered, deliverables, and exclusions .
+Work Definition (WBS/PBS),Detailed breakdown of the actual work to be performed, often using a Work Breakdown Structure .
+Detailed Schedules,Timelines that include specific milestones and work timing.
+Project Budget,Detailed plan for costs and cost accounts.
+Risk and Quality Plans,Plans designed to manage project risks and ensure quality standards are met .
+Communication and Review Plans,Plans that outline how information is shared and how work is reviewed.
+Purpose: Broad description for stakeholders,To provide a broad description of the master plan and project directed at the core team and primary stakeholders .
+Contracted projects: SOW vs CSOW,There are two SOWs (Master Plan and Contract/CSOW); they may be worded differently but must have the exact same interpretation of work .
+Active terminology: Shall vs Will,"Shall" means 'must do' (mandatory), while "will" means it is 'desirable to do' .
+Clarity: Avoid "as necessary" or "as required",Avoid vague terms; requirements must be clear enough for responsible parties to sign-off on acceptance .
+Hierarchical subdivision of work,Dividing the overall project into major categories, then subcategories, down to specific tasks.
+Basis for schedule, budget, risk mgmt,The WBS well-defined tasks serve as the foundation for the schedule, budget, resources, and risk management.
+End-item Sub-systems (Physical components),An approach that starts with the final system and subdivides it into subsystems, components, and parts .
+Process-Steps (Phases/Stages),An approach that starts by defining project phases (like Analysis or Design) and subdividing them into detailed tasks.
+Smallest unit of WBS (Work Package),The activity at the bottom level of the WBS, known as a "work package".
+Clear responsibility,A criterion for a work package: you must be able to identify exactly who is responsible for the work.
+Independent estimates,Activities within a work package should be independent of each other.
+Time/cost/risk assessment,A work package should ideally contain time estimates, cost estimates, and a risk assessment .
+One, and only one, P per task,In a Responsibility Matrix, there should be one (and only one) person with Primary/Lead responsibility for each task .
+S (Secondary),Code in the matrix indicating a person has secondary responsibility.
+N (Notification required),Code in the matrix indicating a person needs to be notified about the task.
+A (Approval required),Code in the matrix indicating a person must provide approval.
+Expert Judgment,Estimating method that relies on the opinion and experience of experts.
+Analogy,Estimating method that compares the project to similar past ones, compensating for differences.
+Parametric (Formulas),Estimating method using a formula or cost function (e.g., Cost = Area x Rate).
+Cost Engineering,Estimating method using a detailed cost breakdown of labor and materials at the work package level .
+Delphi,Iterative method using anonymous questionnaires to aggregate expert judgments and reach a consensus .
+Estimate vs Target,An estimate is a realistic assessment based on facts; a target is a desired goal or promise .
+Accuracy vs Precision,Accuracy is how close the estimate is to the actual value; Precision is the number of decimal places .
+Contingency Fund (Reserve),Amount added to the budget or schedule to account for uncertainty in estimates .
+Gantt Chart: Easy to create/understand,A pro of Gantt charts is that they are simple, common tools that are easy to make and read .
+Gantt Chart: Cons (Limited relationships),A con of Gantt charts is that they do not clearly show the relationships (dependencies) between tasks.
+Task (Work effort),Represents a work effort that consumes resources and time.
+Event (Moment in time),Signifies a specific moment in time, such as the start or finish of a task.
+Milestone (Significant event),An event of particular significance in the project timeline.
+Logical Sequencing (Predecessor/Successor),Arranging tasks based on dependencies (e.g., a predecessor task must finish before a successor can start) .

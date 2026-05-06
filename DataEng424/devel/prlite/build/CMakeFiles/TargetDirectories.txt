@@ -1,0 +1,5 @@
+/home/janes-mostert/devel/prlite/build/CMakeFiles/edit_cache.dir
+/home/janes-mostert/devel/prlite/build/CMakeFiles/rebuild_cache.dir
+/home/janes-mostert/devel/prlite/build/src/CMakeFiles/prlite.dir
+/home/janes-mostert/devel/prlite/build/src/CMakeFiles/edit_cache.dir
+/home/janes-mostert/devel/prlite/build/src/CMakeFiles/rebuild_cache.dir

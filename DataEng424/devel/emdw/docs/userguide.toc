@@ -1,0 +1,42 @@
+\contentsline {section}{\numberline {1}Getting started}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Installing \texttt {emdw}}{3}{}%
+\contentsline {subsection}{\numberline {1.2}A quick and easy way to start using \texttt {emdw}}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Writing external applications linking to \texttt {emdw}}{3}{}%
+\contentsline {section}{\numberline {2}Random variables (RVs)}{4}{}%
+\contentsline {subsection}{\numberline {2.1}The id of an RV}{4}{}%
+\contentsline {paragraph}{Tips for specifying / retrieving RV id numbers:}{4}{}%
+\contentsline {subsection}{\numberline {2.2}The values that an RV can take on}{4}{}%
+\contentsline {section}{\numberline {3}Factors and their operators}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Factors}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Factor operations}{5}{}%
+\contentsline {subsection}{\numberline {3.3}Associating \texttt {Factors} and \texttt {FactorOperators}}{5}{}%
+\contentsline {section}{\numberline {4}Available Factors}{6}{}%
+\contentsline {subsection}{\numberline {4.1}\texttt {DiscreteTable<AssignType>}}{6}{}%
+\contentsline {subsection}{\numberline {4.2}\texttt {SqrtMVG}}{6}{}%
+\contentsline {subsection}{\numberline {4.3}\texttt {AffineMVG}}{6}{}%
+\contentsline {subsection}{\numberline {4.4}\texttt {NonLinMVG}}{6}{}%
+\contentsline {subsection}{\numberline {4.5}\texttt {Wishart}}{6}{}%
+\contentsline {subsection}{\numberline {4.6}\texttt {ConditionalMVG}}{7}{}%
+\contentsline {subsection}{\numberline {4.7}\texttt {Dirichlet}}{7}{}%
+\contentsline {subsection}{\numberline {4.8}\texttt {Polya}}{7}{}%
+\contentsline {subsection}{\numberline {4.9}\texttt {DirichletSet}}{7}{}%
+\contentsline {subsection}{\numberline {4.10}\texttt {ConditionalPolya}}{7}{}%
+\contentsline {subsection}{\numberline {4.11}The VMP hatchery}{7}{}%
+\contentsline {subsubsection}{\numberline {4.11.1}\texttt {Gauss1EXPF}}{7}{}%
+\contentsline {subsubsection}{\numberline {4.11.2}\texttt {Gamma1EXPF}}{8}{}%
+\contentsline {subsubsection}{\numberline {4.11.3}\texttt {Gauss1VMP}}{8}{}%
+\contentsline {subsubsection}{\numberline {4.11.4}\texttt {DirEXPF}}{8}{}%
+\contentsline {subsubsection}{\numberline {4.11.5}\texttt {Cat1EXPF}}{8}{}%
+\contentsline {subsubsection}{\numberline {4.11.6}\texttt {Cat1VMP}}{8}{}%
+\contentsline {subsubsection}{\numberline {4.11.7}\texttt {Gauss1EXPFset}}{8}{}%
+\contentsline {subsubsection}{\numberline {4.11.8}\texttt {Gamma1EXPFset}}{8}{}%
+\contentsline {subsubsection}{\numberline {4.11.9}\texttt {CGauss1VMP}}{8}{}%
+\contentsline {subsubsection}{\numberline {4.11.10}\texttt {DirEXPFset}}{8}{}%
+\contentsline {subsubsection}{\numberline {4.11.11}\texttt {CCat1VMP}}{8}{}%
+\contentsline {subsubsection}{\numberline {4.11.12}\texttt {LinGauss1VMP}}{8}{}%
+\contentsline {section}{\numberline {5}Linking them up: the probabilistic graphical model (PGM)}{8}{}%
+\contentsline {subsection}{\numberline {5.1}Cluster graphs and loopy message passing}{9}{}%
+\contentsline {subsection}{\numberline {5.2}Loopy belief \emph {propagation}:}{9}{}%
+\contentsline {subsection}{\numberline {5.3}Loopy belief \emph {update}:}{9}{}%
+\contentsline {section}{\numberline {6}Examples}{9}{}%
+\contentsline {subsection}{\numberline {6.1}Example 1: using RVs and factor operators}{9}{}%

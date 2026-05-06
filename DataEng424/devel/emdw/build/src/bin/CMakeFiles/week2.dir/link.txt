@@ -1,0 +1,1 @@
+g++ -std=c++17 -O3  CMakeFiles/week2.dir/week2.cc.o -o week2  -Wl,-rpath,/home/janes-mostert/devel/emdw/build/src:/home/janes-mostert/bin ../libemdw.so /home/janes-mostert/bin/libgLinear.so /home/janes-mostert/bin/libprlite.so -llapack -lblas -lssl -lcrypto -lz 
