@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1778233641.27012 "/home/janes/studies/DataEng414/de414_prac_5_cnns_notebook_and_data/report/prac5.tex" "prac5.pdf" "prac5" 1778233641.46765 0
-  "/home/janes/studies/DataEng414/de414_prac_5_cnns_notebook_and_data/report/prac5.tex" 1778233640.93937 12353 70aba04b39e21fe72679f8146be6498c ""
+["pdflatex"] 1778495288.4298 "/home/janes/studies/DataEng414/de414_prac_5_cnns_notebook_and_data/report/prac5.tex" "prac5.pdf" "prac5" 1778495288.62741 0
+  "/home/janes/studies/DataEng414/de414_prac_5_cnns_notebook_and_data/report/prac5.tex" 1778495288.27043 12337 0b74ff638b43a14cf8c4fecfd7f7b308 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1775415801 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1775415801 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1775415801 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -65,8 +65,8 @@
   "images/1.png" 1778228445.19779 94027 c23c30d0913d578ce1b63af7a4591466 ""
   "images/2.png" 1778228470.61908 226415 45b0dd372b280f7aeccf0ce33610bd46 ""
   "images/3.png" 1778232251.03753 111467 2eb6716d7233d82897b12f2a48c23339 ""
-  "prac5.aux" 1778233641.44347 2455 e02c5df4ded3170c2ed05b2b8a3774ec "pdflatex"
-  "prac5.tex" 1778233640.93937 12353 70aba04b39e21fe72679f8146be6498c ""
+  "prac5.aux" 1778495288.60368 2455 e02c5df4ded3170c2ed05b2b8a3774ec "pdflatex"
+  "prac5.tex" 1778495288.27043 12337 0b74ff638b43a14cf8c4fecfd7f7b308 ""
   (generated)
   "prac5.aux"
   "prac5.log"

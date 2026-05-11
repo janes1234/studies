@@ -225,7 +225,7 @@ for idx in indices_to_test:
 \subsection{Analysis of Filter Responses}
 The visual output confirms our model predicted the correct class for all three inputs. More importantly, the feature maps reveal the underlying mechanics of convolutional feature extraction. 
 
-Different digit morphologies trigger distinct responses across the ten filter channels. When the network processes the digit '1', filters optimized for straight vertical lines exhibit high activation values. Conversely, when the network evaluates the digit '0', those same vertical filters remain largely dormant. Instead, channels attuned to rounded edges and curved structures become highly active. This selective excitation creates a unique activation signature for every number. The final linear layer relies entirely on these distinct signatures to classify the images accurately.
+Different digit shapes trigger distinct responses across the ten filter channels. When the network processes the digit '1', filters optimized for straight vertical lines shows high activation values. Conversely, when the network evaluates the digit '0', those same vertical filters remain dormant. Instead, channels attuned to rounded edges and curved structures become highly active. This selective excitation creates a unique activation signature for every number. The final linear layer relies entirely on these distinct signatures to classify the images accurately.
 
 \begin{figure}[H]
     \centering
